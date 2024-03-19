@@ -20,7 +20,7 @@
 ### <div align="center">Sou lucas dias, estudante da área de TI, apaixonado pelo mundo da tecnologia e amante de futebol!</div>  
   
 
-- Estou cursando o 3 ano do ensino médio técnico e futuro estudante da faculdade de engenharia de software.  
+- Estou cursando o primeiro ano de Engenharia de Software na FIAP e trabalhando como Estagiário de TI.
   
 
 - Estou aprendendo sobre diversas linguagens no momento.  
